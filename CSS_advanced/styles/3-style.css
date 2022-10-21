@@ -16,7 +16,7 @@ a {
 .section-tagline {
     color: var(--color-primary);
 }
-.root {
+:root {
     --color-primary: #D73953; /* custom propertie ( --example) */
     --color-black: #090909;
     --color-white: #ffffff;
